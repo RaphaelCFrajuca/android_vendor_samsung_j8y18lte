@@ -105,7 +105,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.hardware.wifi@1.0.so:system/proprietary/lib/vendor.samsung.hardware.wifi@1.0.so \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.security.proca@1.0.so:system/proprietary/lib/vendor.samsung.security.proca@1.0.so \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.security.sem@1.0.so:system/proprietary/lib/vendor.samsung.security.sem@1.0.so \
-	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.security.skpm@.0.so:system/proprietary/lib/vendor.samsung.security.skpm@.0.so \
+	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.security.skpm@.0.so:system/proprietary/lib/vendor.samsung.security.skpm@1.0.so \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.samsung.security.wvkprov_server@1.0.so:system/proprietary/lib/vendor.samsung.security.wvkprov_server@1.0.so \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.trustonic.tee@1.0.so:system/proprietary/lib/vendor.trustonic.tee@1.0.so \
 	vendor/samsung/j8y18lte/proprietary/lib/vendor.trustonic.teeregistry@1.0.so:system/proprietary/lib/vendor.trustonic.teeregistry@1.0.so \
